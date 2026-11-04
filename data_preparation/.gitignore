@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+Data/
+output/
+# Raw data and generated datasets
+*.csv
+*.xlsx

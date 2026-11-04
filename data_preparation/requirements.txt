@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+seaborn>=0.12
+matplotlib>=3.8
+statsmodels
+openpyxl

@@ -1,0 +1,11 @@
+# Local data and generated exports
+/data/
+/outputs/
+/questionnaire_stop_signal.xlsx
+/questionnaire_stop_signal_processed.csv
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
