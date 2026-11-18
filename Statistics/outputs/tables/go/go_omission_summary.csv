@@ -1,0 +1,5 @@
+group,condition,total_omission,total_trials,percent_omission
+IGFirst,IG,50,4463,1.120322652924042
+IGFirst,Poem,29,4414,0.6570004531037608
+PoemFirst,IG,22,4846,0.4539826661163846
+PoemFirst,Poem,16,4840,0.3305785123966942

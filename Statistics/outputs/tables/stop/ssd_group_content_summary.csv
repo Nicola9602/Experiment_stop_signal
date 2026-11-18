@@ -1,0 +1,5 @@
+group,content,variable,n,mean,sd
+IG_first,IG,ssd,24,342.75,232.81
+IG_first,Poem,ssd,25,377.84,243.869
+Poem_first,IG,ssd,22,405.409,220.332
+Poem_first,Poem,ssd,25,440.08,225.154

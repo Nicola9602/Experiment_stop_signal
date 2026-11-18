@@ -1,0 +1,30 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: poisson  ( log )
+Formula: go_omission ~ group + condition + (1 | participant)
+   Data: df_go
+
+      AIC       BIC    logLik -2*log(L)  df.resid 
+   1300.7    1332.0    -646.3    1292.7     18559 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-0.2830 -0.0778 -0.0542 -0.0395 23.2196 
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ participant (Intercept) 1.228    1.108   
+Number of obs: 18563, groups:  participant, 50
+
+Fixed effects:
+               Estimate Std. Error z value Pr(>|z|)    
+(Intercept)     -5.2426     0.2888 -18.154   <2e-16 ***
+groupPoemFirst  -0.6895     0.4109  -1.678   0.0933 .  
+conditionPoem   -0.4643     0.1945  -2.387   0.0170 *  
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Correlation of Fixed Effects:
+            (Intr) grpPmF
+groupPmFrst -0.656       
+conditionPm -0.258 -0.001

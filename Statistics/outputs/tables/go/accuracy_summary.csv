@@ -1,0 +1,9 @@
+group,condition,trial_type,mean_correct,mean_incorrect
+IGFirst,IG,go,0.9887967734707596,0.01120322652924044
+IGFirst,IG,stop,0,1
+IGFirst,Poem,go,0.9934299954689624,0.006570004531037621
+IGFirst,Poem,stop,0,1
+PoemFirst,IG,go,0.9954601733388362,0.004539826661163815
+PoemFirst,IG,stop,0,1
+PoemFirst,Poem,go,0.996694214876033,0.0033057851239669533
+PoemFirst,Poem,stop,0,1

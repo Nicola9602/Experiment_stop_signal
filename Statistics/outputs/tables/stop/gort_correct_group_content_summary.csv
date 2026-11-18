@@ -1,0 +1,5 @@
+group,content,variable,n,mean,sd
+IG_first,IG,gort_correct,24,580.208,215.732
+IG_first,Poem,gort_correct,25,606.64,238.814
+Poem_first,IG,gort_correct,22,660.818,208.281
+Poem_first,Poem,gort_correct,25,681.56,204.448

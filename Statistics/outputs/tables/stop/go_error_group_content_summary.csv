@@ -1,0 +1,5 @@
+group,content,variable,n,mean,sd
+IG_first,IG,go_error,24,0.01,0.02
+IG_first,Poem,go_error,25,0.008,0.013
+Poem_first,IG,go_error,22,0.008,0.018
+Poem_first,Poem,go_error,25,0.004,0.007

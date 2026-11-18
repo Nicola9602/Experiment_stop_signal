@@ -1,0 +1,33 @@
+# Private participant-level data; keep the documentation only
+data/*
+!data/README.md
+
+# Model objects may embed sensitive participant data
+outputs/models/**
+!outputs/models/
+!outputs/models/go/
+!outputs/models/stop/
+!outputs/models/questionnaires/
+!outputs/models/go/.gitkeep
+!outputs/models/stop/.gitkeep
+!outputs/models/questionnaires/.gitkeep
+
+# Local environment and temporary artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+*.Rproj
+.DS_Store
+__pycache__/
+*.tmp
+*.log
+renv/library/
+renv/staging/
+renv/python/
+reports/session_info.txt
+
+reports/stop_session_info.txt
+
+reports/questionnaire_session_info.txt

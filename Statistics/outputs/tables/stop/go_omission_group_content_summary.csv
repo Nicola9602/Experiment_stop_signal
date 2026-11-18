@@ -1,0 +1,5 @@
+group,content,variable,n,mean,sd
+IG_first,IG,go_omission,24,0.026,0.05
+IG_first,Poem,go_omission,25,0.034,0.057
+Poem_first,IG,go_omission,22,0.024,0.044
+Poem_first,Poem,go_omission,25,0.03,0.043

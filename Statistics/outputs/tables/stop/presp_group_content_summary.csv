@@ -1,0 +1,5 @@
+group,content,variable,n,mean,sd
+IG_first,IG,presp,24,0.499,0.055
+IG_first,Poem,presp,25,0.48,0.052
+Poem_first,IG,presp,22,0.485,0.069
+Poem_first,Poem,presp,25,0.464,0.034
